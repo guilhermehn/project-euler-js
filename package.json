@@ -1,0 +1,25 @@
+{
+  "name": "project-euler-js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guilhermehn/project-euler-js.git"
+  },
+  "author": "Guilherme Nagatomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermehn/project-euler-js/issues"
+  },
+  "homepage": "https://github.com/guilhermehn/project-euler-js",
+  "dependencies": {
+    "fundash": "^0.1.1"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
